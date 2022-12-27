@@ -1,1 +1,2 @@
 This is the first file in the test repository.
+Second line added into first.txt
